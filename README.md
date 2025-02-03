@@ -56,6 +56,3 @@ This project is licensed under the MIT License.
 - Open-source contributors for their invaluable resources and tools.
 
 ---
-
-Happy detecting! 🤬😉
-
