@@ -25,8 +25,8 @@ The model uses the [Sarcasm Detection Dataset](http://storage.googleapis.com/dow
 ## Installation & Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/sarcasm-detector.git
-    cd sarcasm-detector
+    git clone https://github.com/allanbil214/nn_SarcasmDetector.git
+    cd nn_SarcasmDetector
     ```
 
 2. Install required libraries:
